@@ -1,0 +1,75 @@
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.exe
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.deps.json
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.runtimeconfig.json
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.runtimeconfig.dev.json
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.pdb
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csprojAssemblyReference.cache
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.Form1.resources
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csproj.GenerateResource.cache
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.AssemblyInfoInputs.cache
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.AssemblyInfo.cs
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csproj.CoreCompileInputs.cache
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.pdb
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.genruntimeconfig.cache
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.Video.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.Video.xml
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.xml
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.xml
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csproj.CopyComplete
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\DA1\code\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csprojAssemblyReference.cache
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.Form1.resources
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csproj.GenerateResource.cache
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.AssemblyInfoInputs.cache
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.AssemblyInfo.cs
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.pdb
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.exe
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.deps.json
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.runtimeconfig.json
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.runtimeconfig.dev.json
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.pdb
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.Video.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.dll
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.Video.xml
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.xml
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\AForge.xml
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csproj.CopyComplete
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.genruntimeconfig.cache
+D:\DO AN\doan\CAM\WindowsFormsApp\WindowsFormsApp\bin\Debug\netcoreapp3.1\WebCam_Capture.dll

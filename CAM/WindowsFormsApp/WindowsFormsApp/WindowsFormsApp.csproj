@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IO.Ports" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\..\Release\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\..\Release\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="WebCam_Capture">
+      <HintPath>..\..\..\..\123\Khac Thanh Camera sensor\WebCam_Capture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
